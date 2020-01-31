@@ -1,6 +1,6 @@
 Hello world!
 
-<iframe src="/map.html"
+<iframe src="/map2.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
