@@ -2,7 +2,7 @@ Hello world!
 
 <iframe src="/map2.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="900"
     height="500"
     scrolling="no"
     seamless="seamless"
