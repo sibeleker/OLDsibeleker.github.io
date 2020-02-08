@@ -48,4 +48,5 @@ ul.posts li {
 img {
   display: block;
   padding-right: 30px;
+  max-height: 100%;
 }
