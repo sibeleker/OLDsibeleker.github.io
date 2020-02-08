@@ -20,13 +20,13 @@ a:hover {
     text-decoration: underline overline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #145A32;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 0.8em;
     color: #333;
 }
 footer {
@@ -34,7 +34,9 @@ footer {
     font-size: .8em;
     color: #999
 }
-
+nav {
+    border-bottom: 1px solid #d5d5d5;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
