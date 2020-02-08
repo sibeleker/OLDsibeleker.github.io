@@ -49,4 +49,5 @@ img {
   display: block;
   padding-right: 20px;
   max-height: 100%;
+  float: left;
 }
